@@ -68,6 +68,6 @@ for velocity estimation and collision prediction.
 
 ## Contact Information
 **Name:** Suryansh Shah  
-**Contact:** +91-XXXXXXXXXX  
-**Email:** your@email.com  
+**Contact:** +91-9816950010  
+**Email:** shahsuryansh2006@gmail.com  
 **GitHub:** suryanshshah2006
